@@ -1,0 +1,7 @@
+node_modules/
+*.log
+*.mp4
+*.webm
+*.mp3
+*.part
+.DS_Store

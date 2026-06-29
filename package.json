@@ -1,0 +1,36 @@
+{
+  "name": "@yashp1811/yt-grab",
+  "version": "1.0.0",
+  "description": "Simple, dependency-free CLI to download YouTube (and other) videos via yt-dlp.",
+  "bin": {
+    "yt-grab": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "keywords": [
+    "youtube",
+    "download",
+    "yt-dlp",
+    "video",
+    "cli"
+  ],
+  "author": "yashp1811",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashp1811/yt-grab.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashp1811/yt-grab/issues"
+  },
+  "homepage": "https://github.com/yashp1811/yt-grab#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
